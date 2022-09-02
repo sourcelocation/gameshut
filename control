@@ -1,0 +1,9 @@
+Package: net.sourceloc.gameshut
+Name: GameShut
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Kaboom gamecenter notifs
+Maintainer: sourcelocation
+Author: sourcelocation
+Section: Tweaks
+Depends: ${ORION}, firmware (>= 12.2)

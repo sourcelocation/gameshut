@@ -1,0 +1,4 @@
+module GameShutC {
+    umbrella "."
+    export *
+}
